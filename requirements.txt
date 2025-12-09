@@ -1,1 +1,1 @@
-
+Requirements: numpy, pandas, scikit-learn, imbalanced-learn, streamlit
